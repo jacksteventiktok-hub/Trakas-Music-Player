@@ -1,0 +1,6 @@
+{
+  "name": "Trakas Music Player",
+  "description": "Reproductor musical local moderno para Android con ecualizador, Bass & Treble, visualizador en tiempo real, letras LRC, estadísticas, Trakas AI, modos de interfaz y temas personalizables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
